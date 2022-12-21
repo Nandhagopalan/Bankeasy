@@ -14,8 +14,8 @@ Donut helps you get rid of all of these OCR specific limitations. The model for 
 
 <a href="https://www.kaggle.com/datasets/medali1992/cheque-images/"> kaggle dataset </a>. The original dataset contains images of cheques of 10 different banks.
 
-## HF Space:
-https://huggingface.co/spaces/Nandhu/DocAI
+## HF Space 🤗: 
+https://huggingface.co/spaces/Nandhu/DocAI 🍩
 
 
 ## Acknowledgements
