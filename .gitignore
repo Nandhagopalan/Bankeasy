@@ -1,0 +1,18 @@
+.git
+.ssh/
+
+# Pytest
+.coverage
+.python-version
+__pycache__
+
+# VS Code
+.venv
+.vscode/
+.venv
+.python-version
+temp/
+
+# Model artifacts
+pl_model/
+pl_processor/
