@@ -1,6 +1,6 @@
-# Chequeeasy
+# Bankeasy
 
-ChequeEasy is a project that aims to simplify the process of approval of cheques and making it easier for both bank officials and customers.
+Bankeasy is a project that aims to simplify the process of approval of cheques and making it easier for both bank officials and customers.
 
 This project leverages Donut model proposed in the paper <a href="https://arxiv.org/abs/2111.15664/"> OCR-free Document Understanding Transformer </a> for the parsing of the required data from cheques.'
 
